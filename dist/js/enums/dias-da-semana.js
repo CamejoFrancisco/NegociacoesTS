@@ -1,4 +1,3 @@
-//Enums allow a developer to define a set of named constants
 export var DiasDaSemana;
 (function (DiasDaSemana) {
     DiasDaSemana[DiasDaSemana["DOMINGO"] = 0] = "DOMINGO";
